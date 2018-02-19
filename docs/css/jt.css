@@ -4164,6 +4164,7 @@ select.form-control.select-xs {
 div.output.output_scroll {
  box-shadow: none;
 }
+/*
 ::-webkit-scrollbar-track {
  -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.11);
  background-color: #d0d0d0;
@@ -4181,6 +4182,7 @@ div.output.output_scroll {
  min-height: 60px;
  border-radius: 2px;
 }
+*/
 div.input_area {
  background-color: whitesmoke;
  padding-right: 1.2em;

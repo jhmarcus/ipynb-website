@@ -10,10 +10,10 @@
 <meta name="ipynb_website:version" content="0.9.3" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-<title>Divvy data exploration project</title>
+<title>Project name</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
-<link href="site_libs/bootstrap-3.3.5/css/readable.min.css" rel="stylesheet" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
@@ -172,36 +172,20 @@ $(document).ready(function () {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html">Divvy data exploration project</a>
+      <a class="navbar-brand" href="index.html">Project name</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         
 <li>
-  <a href="./index.html">Overview</a>
-</li>
-        
-<li>
-  <a href="./setup.html">Setup</a>
-</li>
-        
-<li>
   <a href="./license.html">License</a>
-</li>
-        
-<li>
-  <a href="./notes.html">Notes</a>
-</li>
-        
-<li>
-  <a href="./protected.html">Protected</a>
 </li>
         
       </ul>
     
 <ul class="nav navbar-nav navbar-right">
 <li>
-   <a href="http://github.com/stephenslab/ipynb-website"> source </a>
+   <a href="http://github.com/jhmarcus"> source </a>
 </li>
 </ul>
         
@@ -212,7 +196,7 @@ $(document).ready(function () {
 {%- endblock header -%}
 {% block footer %}
 <hr>
-&copy; 2017 Peter Carbonetto &amp; Gao Wang
+&copy; 2018 Joseph Marcus
 <!-- To enable disqus, uncomment the section below and provide your disqus_shortname -->
 
 </div>
